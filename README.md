@@ -44,7 +44,7 @@ That's the white-box principle: explainability by design, not post-hoc patching.
 
 ```bash
 # Clone the repo
-git clone [https://github.com/your-username/esg-sentiment-xai.git](https://github.com/Hima-Mehta/esg-sentiment-xai.git)
+git clone https://github.com/your-username/esg-sentiment-xai.git
 cd esg-sentiment-xai
 
 # Install dependencies
