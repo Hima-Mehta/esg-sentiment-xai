@@ -103,9 +103,3 @@ Berg, F., Kölbel, J. F., & Rigobon, R. (2022). Aggregate Confusion: The Diverge
 Araci, D. (2019). FinBERT: Financial Sentiment Analysis with Pre-trained Language Models. *arXiv:1908.10063*.
 
 Lundberg, S. M., & Lee, S. I. (2017). A Unified Approach to Interpreting Model Predictions. *NeurIPS 2017*.
-
----
-
-*Author: Hima — Applied AI Scientist*
-*PhD research — Ulster University (in progress)*
-*Responsible and Interpretable AI for Sustainable Finance and Wellbeing Technologies*
