@@ -86,7 +86,7 @@ SHAP explanation shows which specific words drove each prediction — making the
 
 ---
 
-## Next steps — PhD roadmap
+## Next steps
 
 1. Scale to full sustainability reports and regulatory filings
 2. Integrate ESG sentiment scores as causal features in portfolio optimisation
